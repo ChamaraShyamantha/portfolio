@@ -468,7 +468,7 @@ a:hover {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 70px;
 }
 
 #header.header-scrolled {
@@ -736,6 +736,10 @@ a:hover {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
+.text-justify {
+  text-align: justify;
+}
+
 .hero {
   height: 100vh;
   position: relative;
